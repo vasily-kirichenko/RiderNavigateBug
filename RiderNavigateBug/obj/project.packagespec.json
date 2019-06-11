@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\kirichenko\\RiderProjects\\RiderNavigateBug\\RiderNavigateBug\\RiderNavigateBug.fsproj",
+    "projectName": "RiderNavigateBug",
+    "projectPath": "C:\\Users\\kirichenko\\RiderProjects\\RiderNavigateBug\\RiderNavigateBug\\RiderNavigateBug.fsproj",
+    "outputPath": "C:\\Users\\kirichenko\\RiderProjects\\RiderNavigateBug\\RiderNavigateBug\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "c:\\WLCR\\github\\FSharp.Data.SqlClient\\nuget\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "FSharp.Core": {
+          "target": "Package",
+          "version": "[4.5.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

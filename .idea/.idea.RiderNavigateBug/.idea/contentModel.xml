@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kirichenko\RiderProjects\RiderNavigateBug" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RiderNavigateBug" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Module1.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.fs" t="Include" />
+        <e p="RiderNavigateBug.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="RiderNavigateBug.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\WLCR\github\fsharp-support\rider-fsharp\build\idea-sandbox\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\WLCR\github\fsharp-support\rider-fsharp\build\idea-sandbox\config\extensions" t="IncludeRecursive" />
+    <e p="C:\WLCR\github\fsharp-support\rider-fsharp\build\idea-sandbox\config\scratches" t="IncludeRecursive" />
+    <e p="C:\WLCR\github\fsharp-support\rider-fsharp\build\idea-sandbox\system\extResources" t="IncludeRecursive" />
+    <e p="C:\WLCR\github\fsharp-support\rider-fsharp\build\idea-sandbox\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_RiderNavigateBug.14032620.00" t="ExcludeRecursive" />
+  </component>
+</project>
